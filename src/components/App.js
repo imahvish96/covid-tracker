@@ -1,8 +1,8 @@
-import Header from './Header'
+import Navigation from './Header'
 
 function App() {
   return (
-    <Header/>
+    <Navigation/>
   );
 }
 
